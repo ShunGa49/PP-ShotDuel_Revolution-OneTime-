@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 6d39e59d207cedb4f8c6ee32adc7f41f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1317275934929904028
+    second: ShotDuel_0
+  - first:
+      213: -8910163244743445368
+    second: ShotDuel_1
+  - first:
+      213: 1674164536984446955
+    second: ShotDuel_2
+  - first:
+      213: -4255201462631611691
+    second: ShotDuel_3
+  - first:
+      213: 6122109269487100336
+    second: ShotDuel_4
+  - first:
+      213: -16606859933064070
+    second: ShotDuel_5
+  - first:
+      213: -3997337103100471772
+    second: ShotDuel_6
+  - first:
+      213: -5003041977161251810
+    second: ShotDuel_7
+  - first:
+      213: -8183647817555434613
+    second: ShotDuel_8
+  - first:
+      213: -8851901689899188818
+    second: ShotDuel_9
+  - first:
+      213: 6462240929255150651
+    second: ShotDuel_10
+  - first:
+      213: -1166209493162409995
+    second: ShotDuel_11
+  - first:
+      213: -68869130341366234
+    second: ShotDuel_12
+  - first:
+      213: -6907297247769424378
+    second: ShotDuel_13
+  - first:
+      213: -4920406094775287930
+    second: ShotDuel_14
+  - first:
+      213: -2366369090567931743
+    second: ShotDuel_15
+  - first:
+      213: 9204096395431876960
+    second: ShotDuel_16
+  - first:
+      213: 5898537944939843344
+    second: ShotDuel_17
+  - first:
+      213: 1979930579061306390
+    second: ShotDuel_18
+  - first:
+      213: 5442143376077304098
+    second: ShotDuel_19
+  - first:
+      213: -1607222061006887086
+    second: ShotDuel_20
+  - first:
+      213: 6745368672166355498
+    second: ShotDuel_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 250, z: 0, w: 400}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShotDuel_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 468
+        width: 174
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e1553348818bde0800000000000000
+      internalID: -1317275934929904028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotDuel_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 443
+        width: 85
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884335aacbdb85480800000000000000
+      internalID: -8910163244743445368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotDuel_2
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 441
+        width: 131
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7a38ab6c3db3710800000000000000
+      internalID: 1674164536984446955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotDuel_3
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 460
+        width: 232
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2ce1490dc72f4c0800000000000000
+      internalID: -4255201462631611691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotDuel_4
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 440
+        width: 234
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1a7ebb1f916f450800000000000000
+      internalID: 6122109269487100336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotDuel_5
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 542
+        width: 162
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74eadc162005cff0800000000000000
+      internalID: -16606859933064070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotDuel_6
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 442
+        width: 210
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4261532651b9688c0800000000000000
+      internalID: -3997337103100471772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotDuel_7
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 442
+        width: 223
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e148fea34df919ab0800000000000000
+      internalID: -5003041977161251810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotDuel_8
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 467
+        width: 232
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8325b33ba7dd6e80800000000000000
+      internalID: -8183647817555434613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotDuel_9
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 467
+        width: 232
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadf0eaff4ab72580800000000000000
+      internalID: -8851901689899188818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotDuel_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 352
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b345e3103ed7ea950800000000000000
+      internalID: 6462240929255150651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotDuel_11
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 295
+        width: 67
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffbd5215aac0dfe0800000000000000
+      internalID: -1166209493162409995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotDuel_12
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 398
+        width: 70
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626430e04e35b0ff0800000000000000
+      internalID: -68869130341366234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotDuel_13
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 379
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e8ba4efb95420a0800000000000000
+      internalID: -6907297247769424378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotDuel_14
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 303
+        width: 82
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f704ae9b437bbb0800000000000000
+      internalID: -4920406094775287930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotDuel_15
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 295
+        width: 32
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8fb3589d7f82fd0800000000000000
+      internalID: -2366369090567931743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotDuel_16
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 294
+        width: 58
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0699b2008e48bbf70800000000000000
+      internalID: 9204096395431876960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotDuel_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 293
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f4d465201dbd150800000000000000
+      internalID: 5898537944939843344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotDuel_18
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 307
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614f1ec1f502a7b10800000000000000
+      internalID: 1979930579061306390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotDuel_19
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 299
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22135db1190668b40800000000000000
+      internalID: 5442143376077304098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotDuel_20
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 295
+        width: 82
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257638a0d0002b9e0800000000000000
+      internalID: -1607222061006887086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShotDuel_21
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 307
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22268f911d5c9d50800000000000000
+      internalID: 6745368672166355498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ShotDuel_0: -1317275934929904028
+      ShotDuel_1: -8910163244743445368
+      ShotDuel_10: 6462240929255150651
+      ShotDuel_11: -1166209493162409995
+      ShotDuel_12: -68869130341366234
+      ShotDuel_13: -6907297247769424378
+      ShotDuel_14: -4920406094775287930
+      ShotDuel_15: -2366369090567931743
+      ShotDuel_16: 9204096395431876960
+      ShotDuel_17: 5898537944939843344
+      ShotDuel_18: 1979930579061306390
+      ShotDuel_19: 5442143376077304098
+      ShotDuel_2: 1674164536984446955
+      ShotDuel_20: -1607222061006887086
+      ShotDuel_21: 6745368672166355498
+      ShotDuel_3: -4255201462631611691
+      ShotDuel_4: 6122109269487100336
+      ShotDuel_5: -16606859933064070
+      ShotDuel_6: -3997337103100471772
+      ShotDuel_7: -5003041977161251810
+      ShotDuel_8: -8183647817555434613
+      ShotDuel_9: -8851901689899188818
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
